@@ -1,0 +1,14 @@
+h1 {
+    font-size: 40px;
+    color: pink;
+}
+p {
+    font-size: 30px;
+    color: darkorchid;
+    margin-top: 30px
+    ;
+}
+a {
+    color: aqua;
+    margin-top: 20px;
+}
